@@ -1,0 +1,22 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulários</title>
+</head>
+
+<body>
+    <h1>Formulário de login</h1>
+    
+    <form> 
+        <label for="Usuario:"></label>
+        <input type="text">
+        <br/>
+        <label for="senha"></label>
+        <input type="password"/>
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+        
+</html>
+        
